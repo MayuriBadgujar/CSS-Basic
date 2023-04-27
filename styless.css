@@ -1,0 +1,10 @@
+/*
+h1~p{
+    color: red;
+}
+*/
+
+/* target all the p tags that are siblings of elements which have class-name as head*/
+.head~p{
+    color:green
+}

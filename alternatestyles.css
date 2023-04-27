@@ -1,0 +1,19 @@
+.container{
+    height:100px;
+    width:100px;
+    margin-bottom:20px;
+    border:1px solid black
+}
+.container:nth-child(2n-1){
+    background-color: green;
+}
+.container:nth-child(2n-1):hover{
+    background-color: lightgreen;
+}
+.container:nth-child(2n){
+    background-color: red;
+}
+
+.container:nth-child(2n):hover{
+    background-color: lightsalmon;
+}

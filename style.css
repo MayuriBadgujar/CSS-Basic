@@ -1,0 +1,15 @@
+p{
+    background-color: lightblue;
+    border:1px solid red;
+    color:brown;
+    font-size:40px;
+    font-weight: 500;
+}
+
+h1{
+    background-color: lightcoral;
+    border:1px solid red;
+    color:blue;
+    font-size:40px;
+    font-weight: 500;
+}
